@@ -1,0 +1,6 @@
+ro.build.version.release=16
+ro.build.version.sdk=36
+ro.product.build.fingerprint=Xiaomi/garnet/miproduct:16/BP2A.250605.031.A3/OS3.0.306.0.WNRCNXM:user/release-keys
+ro.product.build.version.incremental=OS3.0.306.0.WNRCNXM
+ro.system.build.fingerprint=Xiaomi/missi/missi:16/BP2A.250605.031.A3/OS3.0.306.0.WNRCNXM:user/release-keys
+ro.system.build.version.incremental=OS3.0.306.0.WNRCNXM

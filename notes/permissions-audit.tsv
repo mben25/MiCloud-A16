@@ -1,0 +1,250 @@
+com.xiaomi.account	android.permission.ACCESS_NETWORK_STATE	device:android normal|instant
+com.xiaomi.account	android.permission.ACCESS_WIFI_STATE	device:android normal
+com.xiaomi.account	android.permission.AUTHENTICATE_ACCOUNTS	device:android normal
+com.xiaomi.account	android.permission.BLUETOOTH	device:android normal
+com.xiaomi.account	android.permission.BLUETOOTH_CONNECT	device:android dangerous
+com.xiaomi.account	android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS	device:android signature|privileged|recents
+com.xiaomi.account	android.permission.CHANGE_NETWORK_STATE	device:android normal
+com.xiaomi.account	android.permission.GET_ACCOUNTS_PRIVILEGED	device:android signature|privileged
+com.xiaomi.account	android.permission.INTERACT_ACROSS_USERS	device:android signature|privileged|development|role
+com.xiaomi.account	android.permission.INTERACT_ACROSS_USERS_FULL	device:android signature|installer|role|module
+com.xiaomi.account	android.permission.INTERNET	device:android normal|instant
+com.xiaomi.account	android.permission.LOCAL_MAC_ADDRESS	device:android signature|privileged
+com.xiaomi.account	android.permission.MANAGE_ACCOUNTS	device:android normal
+com.xiaomi.account	android.permission.MANAGE_ACTIVITY_TASKS	device:android signature|recents
+com.xiaomi.account	android.permission.MANAGE_NETWORK_POLICY	device:android signature
+com.xiaomi.account	android.permission.MANAGE_USERS	device:android signature|privileged
+com.xiaomi.account	android.permission.POST_NOTIFICATIONS	device:android dangerous|instant
+com.xiaomi.account	android.permission.QUERY_ALL_PACKAGES	device:android normal
+com.xiaomi.account	android.permission.READ_CONTACTS	device:android dangerous
+com.xiaomi.account	android.permission.READ_PHONE_STATE	device:android dangerous
+com.xiaomi.account	android.permission.READ_PRIVILEGED_PHONE_STATE	device:android signature|privileged|role
+com.xiaomi.account	android.permission.READ_SYNC_SETTINGS	device:android normal
+com.xiaomi.account	android.permission.RECEIVE_BOOT_COMPLETED	device:android normal
+com.xiaomi.account	android.permission.RECEIVE_SMS	device:android dangerous
+com.xiaomi.account	android.permission.SEND_SMS	device:android dangerous
+com.xiaomi.account	android.permission.SYSTEM_ALERT_WINDOW	device:android signature|development|appop|pre23|installer|setup
+com.xiaomi.account	android.permission.USE_CREDENTIALS	device:android normal
+com.xiaomi.account	android.permission.VIBRATE	device:android normal|instant
+com.xiaomi.account	android.permission.WRITE_CONTACTS	device:android dangerous
+com.xiaomi.account	android.permission.WRITE_SECURE_SETTINGS	device:android signature|privileged|development|installer|role
+com.xiaomi.account	com.android.launcher.permission.INSTALL_SHORTCUT	device:android normal
+com.xiaomi.account	com.mi.health.permission.DEFAULT_READ_DATA	UNDEFINED
+com.xiaomi.account	com.mi.health.permission.DEFAULT_WRITE_DATA	UNDEFINED
+com.xiaomi.account	com.miui.bugreport.permission.DUMP_CACHED_LOG	UNDEFINED
+com.xiaomi.account	com.miui.securitycenter.permission.PERM_USE_INFO	UNDEFINED
+com.xiaomi.account	com.miui.securitycenter.permission.SYSTEM_PERMISSION_DECLARE	UNDEFINED
+com.xiaomi.account	com.xiaomi.account.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION	module
+com.xiaomi.account	com.xiaomi.account.permission.MIPUSH_RECEIVE	module
+com.xiaomi.account	com.xiaomi.account.permission.SEND_ACCOUNT_POST_CHANGE_BROADCAST	module
+com.xiaomi.account	com.xiaomi.fido.permission.PRIVILEGE_OPERATION	UNDEFINED
+com.xiaomi.account	com.xiaomi.market.sdk.UPDATE	UNDEFINED
+com.xiaomi.account	com.xiaomi.permission.ACCESS_SECURITY_DEVICE_CREDENTIAL	UNDEFINED
+com.xiaomi.account	com.xiaomi.permission.ACCESS_WIFI	UNDEFINED
+com.xiaomi.account	com.xiaomi.permission.BIND_CONTINUITY_SERVICE	UNDEFINED
+com.xiaomi.account	com.xiaomi.permission.BIND_CONTINUITY_SERVICE_INTERNAL	UNDEFINED
+com.xiaomi.account	com.xiaomi.permission.CLOUD_MANAGER	module
+com.xiaomi.account	com.xiaomi.permission.MICLOUD	UNDEFINED
+com.xiaomi.account	com.xiaomi.permission.USE_KEYBOX	module
+com.xiaomi.account	com.xiaomi.simactivate.service.ACTIVATE_SIM	UNDEFINED
+com.xiaomi.account	com.xiaomi.vip.permission.SERVICE	UNDEFINED
+com.xiaomi.account	com.xiaomi.xmsf.permission.PAYMENT	UNDEFINED
+com.xiaomi.account	miui.cloud.finddevice.AccessFindDevice	module
+com.xiaomi.account	miui.cloud.finddevice.ManageFindDevice	module
+com.xiaomi.account	miui.permission.ACCESS_RECORDS	UNDEFINED
+com.xiaomi.account	miui.permission.EXTRA_NETWORK	UNDEFINED
+com.xiaomi.account	miui.permission.USE_INTERNAL_GENERAL_API	device:com.miui.system signature|privileged
+com.xiaomi.account	miui.permission.powerkeeper.HIDDEN_MODE_PROVIDER	UNDEFINED
+com.miui.cloudservice	android.permission.ACCESS_CACHE_FILESYSTEM	device:android signature|privileged
+com.miui.cloudservice	android.permission.ACCESS_COARSE_UPDATES	UNDEFINED
+com.miui.cloudservice	android.permission.ACCESS_KEYGUARD_SECURE_STORAGE	device:android signature|setup
+com.miui.cloudservice	android.permission.ACCESS_NETWORK_STATE	device:android normal|instant
+com.miui.cloudservice	android.permission.ACCESS_WIFI_STATE	device:android normal
+com.miui.cloudservice	android.permission.AUTHENTICATE_ACCOUNTS	device:android normal
+com.miui.cloudservice	android.permission.BIND_JOB_SERVICE	device:android signature
+com.miui.cloudservice	android.permission.CAMERA	device:android dangerous|instant
+com.miui.cloudservice	android.permission.CHANGE_WIFI_STATE	device:android normal
+com.miui.cloudservice	android.permission.FOREGROUND_SERVICE	device:android normal|instant
+com.miui.cloudservice	android.permission.FOREGROUND_SERVICE_DATA_SYNC	device:android normal|instant
+com.miui.cloudservice	android.permission.GET_TASKS	device:android normal
+com.miui.cloudservice	android.permission.INTERACT_ACROSS_USERS	device:android signature|privileged|development|role
+com.miui.cloudservice	android.permission.INTERACT_ACROSS_USERS_FULL	device:android signature|installer|role|module
+com.miui.cloudservice	android.permission.INTERNET	device:android normal|instant
+com.miui.cloudservice	android.permission.MANAGE_ACCOUNTS	device:android normal
+com.miui.cloudservice	android.permission.MANAGE_USERS	device:android signature|privileged
+com.miui.cloudservice	android.permission.POST_NOTIFICATIONS	device:android dangerous|instant
+com.miui.cloudservice	android.permission.QUERY_ALL_PACKAGES	device:android normal
+com.miui.cloudservice	android.permission.READ_CALENDAR	device:android dangerous
+com.miui.cloudservice	android.permission.READ_CALL_LOG	device:android dangerous
+com.miui.cloudservice	android.permission.READ_CONTACTS	device:android dangerous
+com.miui.cloudservice	android.permission.READ_MIPOCKET	UNDEFINED
+com.miui.cloudservice	android.permission.READ_PHONE_STATE	device:android dangerous
+com.miui.cloudservice	android.permission.READ_PRIVILEGED_PHONE_STATE	device:android signature|privileged|role
+com.miui.cloudservice	android.permission.READ_PROFILE	device:android normal
+com.miui.cloudservice	android.permission.READ_SMS	device:android dangerous
+com.miui.cloudservice	android.permission.READ_SOCIAL_STREAM	device:android normal
+com.miui.cloudservice	android.permission.READ_SYNC_SETTINGS	device:android normal
+com.miui.cloudservice	android.permission.READ_SYNC_STATS	device:android normal
+com.miui.cloudservice	android.permission.RECEIVE_BOOT_COMPLETED	device:android normal
+com.miui.cloudservice	android.permission.REORDER_TASKS	device:android normal
+com.miui.cloudservice	android.permission.REQUEST_INSTALL_PACKAGES	device:android signature|appop
+com.miui.cloudservice	android.permission.START_ACTIVITIES_FROM_BACKGROUND	device:android signature|privileged|verifier|oem|vendorPrivileged|role
+com.miui.cloudservice	android.permission.UPDATE_APP_OPS_STATS	device:android signature|privileged|installer|role
+com.miui.cloudservice	android.permission.USE_BIOMETRIC	device:android normal
+com.miui.cloudservice	android.permission.USE_BIOMETRIC_INTERNAL	device:android signature
+com.miui.cloudservice	android.permission.USE_CREDENTIALS	device:android normal
+com.miui.cloudservice	android.permission.VIBRATE	device:android normal|instant
+com.miui.cloudservice	android.permission.WAKE_LOCK	device:android normal|instant
+com.miui.cloudservice	android.permission.WRITE_CALENDAR	device:android dangerous
+com.miui.cloudservice	android.permission.WRITE_CALL_LOG	device:android dangerous
+com.miui.cloudservice	android.permission.WRITE_CONTACTS	device:android dangerous
+com.miui.cloudservice	android.permission.WRITE_EXTERNAL_STORAGE	device:android dangerous
+com.miui.cloudservice	android.permission.WRITE_MIPOCKET	UNDEFINED
+com.miui.cloudservice	android.permission.WRITE_PROFILE	device:android normal
+com.miui.cloudservice	android.permission.WRITE_SECURE_SETTINGS	device:android signature|privileged|development|installer|role
+com.miui.cloudservice	android.permission.WRITE_SETTINGS	device:android signature|appop|pre23|preinstalled|role
+com.miui.cloudservice	android.permission.WRITE_SMS	device:android normal
+com.miui.cloudservice	android.permission.WRITE_SOCIAL_STREAM	device:android normal
+com.miui.cloudservice	android.permission.WRITE_SYNC_SETTINGS	device:android normal
+com.miui.cloudservice	com.android.browser.permission.READ_HISTORY_BOOKMARKS	device:android normal
+com.miui.cloudservice	com.android.launcher.permission.INSTALL_SHORTCUT	device:android normal
+com.miui.cloudservice	com.android.launcher.permission.READ_SETTINGS	device:com.miui.home signature|privileged
+com.miui.cloudservice	com.android.launcher.permission.WRITE_SETTINGS	device:com.miui.home signature|privileged
+com.miui.cloudservice	com.android.voicemail.permission.READ_WRITE_ALL_VOICEMAIL	UNDEFINED
+com.miui.cloudservice	com.hyperos.permission.READ_NOTE	UNDEFINED
+com.miui.cloudservice	com.hyperos.permission.READ_RECORD	UNDEFINED
+com.miui.cloudservice	com.miui.antispam.permission.CONTENTPROVIDER	UNDEFINED
+com.miui.cloudservice	com.miui.bugreport.permission.DUMP_CACHED_LOG	UNDEFINED
+com.miui.cloudservice	com.miui.cloudservice.permission.FIND_DEVICE	module
+com.miui.cloudservice	com.miui.cloudservice.permission.MICLOUD_STATUS_SERVICE	module
+com.miui.cloudservice	com.miui.cloudservice.permission.MIPUSH_RECEIVE	module
+com.miui.cloudservice	com.miui.gallery.permission.USE_API	UNDEFINED
+com.miui.cloudservice	com.miui.home.launcher.permission.UNINSTALL_SHORTCUT	device:com.miui.home normal
+com.miui.cloudservice	com.miui.notes.permission.ACCESS_NOTE	UNDEFINED
+com.miui.cloudservice	com.miui.passwords.permission.OPEN_SETTINGS	UNDEFINED
+com.miui.cloudservice	com.miui.securitycenter.permission.PERM_USE_INFO	UNDEFINED
+com.miui.cloudservice	com.miui.securitycenter.permission.SYSTEM_PERMISSION_DECLARE	UNDEFINED
+com.miui.cloudservice	com.miui.yellowpage.permission.ACCESS_YELLOWPAGE	UNDEFINED
+com.miui.cloudservice	com.xiaomi.aiservice.permission.AI_ABILITY	UNDEFINED
+com.miui.cloudservice	com.xiaomi.cloudkit.permission.ACCESS_CLOUDKIT_PROVIDER	module
+com.miui.cloudservice	com.xiaomi.finddevice.permission.RECEIVE_STATIC_BROADCAST_RELAY	UNDEFINED
+com.miui.cloudservice	com.xiaomi.gallery.permission.CLOUD	UNDEFINED
+com.miui.cloudservice	com.xiaomi.market.sdk.UPDATE	UNDEFINED
+com.miui.cloudservice	com.xiaomi.permission.ACCESS_SECURITY_DEVICE_CREDENTIAL	UNDEFINED
+com.miui.cloudservice	com.xiaomi.permission.ACCESS_WIFI	UNDEFINED
+com.miui.cloudservice	com.xiaomi.permission.ACTIVATE_SIM	UNDEFINED
+com.miui.cloudservice	com.xiaomi.permission.CLOUD_MANAGER	module
+com.miui.cloudservice	com.xiaomi.permission.DATA_UPDATE	UNDEFINED
+com.miui.cloudservice	com.xiaomi.permission.MICLOUD_STATUS_INFO_CHANGED	module
+com.miui.cloudservice	com.xiaomi.permission.MT	device:com.miui.system signature|privileged
+com.miui.cloudservice	com.xiaomi.permission.SEND_PUSH	UNDEFINED
+com.miui.cloudservice	com.xiaomi.permission.SYNC_TAG_DATA	module
+com.miui.cloudservice	com.xiaomi.service.X_PHONE_STATE_SERVICE	UNDEFINED
+com.miui.cloudservice	com.xiaomi.simactivate.service.ACTIVATE_SIM	UNDEFINED
+com.miui.cloudservice	com.xiaomi.vip.permission.SERVICE	UNDEFINED
+com.miui.cloudservice	com.xiaomi.xmsf.permission.PAYMENT	UNDEFINED
+com.miui.cloudservice	miui.cloud.finddevice.AccessFindDevice	module
+com.miui.cloudservice	miui.cloud.finddevice.ControlKeyguard	UNDEFINED
+com.miui.cloudservice	miui.cloud.finddevice.ManageFindDevice	module
+com.miui.cloudservice	miui.cloud.finddevice.Notification	UNDEFINED
+com.miui.cloudservice	miui.cloud.finddevice.SEND_COMMAND	UNDEFINED
+com.miui.cloudservice	miui.cloud.finddevice.SysNotification	UNDEFINED
+com.miui.cloudservice	miui.permission.ACCESS_RECORDS	UNDEFINED
+com.miui.cloudservice	miui.permission.PHRASE	UNDEFINED
+com.miui.cloudservice	miui.permission.SHELL	UNDEFINED
+com.miui.cloudservice	miui.permission.USE_INTERNAL_GENERAL_API	device:com.miui.system signature|privileged
+com.miui.cloudservice	miui.personalassistant.ACCESS_PROVIDER	UNDEFINED
+com.miui.cloudservice	miui.personalassistant.permission.READ_ASSISTANT_PROVIDER	UNDEFINED
+com.miui.cloudservice	miui.personalassistant.permission.WRITE_ASSISTANT_PROVIDER	UNDEFINED
+com.miui.micloudsync	android.permission.ACCESS_NETWORK_STATE	device:android normal|instant
+com.miui.micloudsync	android.permission.ACCESS_WIFI_STATE	device:android normal
+com.miui.micloudsync	android.permission.AUTHENTICATE_ACCOUNTS	device:android normal
+com.miui.micloudsync	android.permission.CHANGE_WIFI_STATE	device:android normal
+com.miui.micloudsync	android.permission.FOREGROUND_SERVICE	device:android normal|instant
+com.miui.micloudsync	android.permission.FOREGROUND_SERVICE_DATA_SYNC	device:android normal|instant
+com.miui.micloudsync	android.permission.INTERACT_ACROSS_USERS	device:android signature|privileged|development|role
+com.miui.micloudsync	android.permission.INTERNET	device:android normal|instant
+com.miui.micloudsync	android.permission.MANAGE_EXTERNAL_STORAGE	device:android signature|appop|preinstalled
+com.miui.micloudsync	android.permission.POST_NOTIFICATIONS	device:android dangerous|instant
+com.miui.micloudsync	android.permission.QUERY_ALL_PACKAGES	device:android normal
+com.miui.micloudsync	android.permission.READ_CALENDAR	device:android dangerous
+com.miui.micloudsync	android.permission.READ_CALL_LOG	device:android dangerous
+com.miui.micloudsync	android.permission.READ_CONTACTS	device:android dangerous
+com.miui.micloudsync	android.permission.READ_MIPOCKET	UNDEFINED
+com.miui.micloudsync	android.permission.READ_PHONE_STATE	device:android dangerous
+com.miui.micloudsync	android.permission.READ_PROFILE	device:android normal
+com.miui.micloudsync	android.permission.READ_SMS	device:android dangerous
+com.miui.micloudsync	android.permission.READ_SYNC_SETTINGS	device:android normal
+com.miui.micloudsync	android.permission.USE_CREDENTIALS	device:android normal
+com.miui.micloudsync	android.permission.WAKE_LOCK	device:android normal|instant
+com.miui.micloudsync	android.permission.WRITE_CALENDAR	device:android dangerous
+com.miui.micloudsync	android.permission.WRITE_CALL_LOG	device:android dangerous
+com.miui.micloudsync	android.permission.WRITE_CONTACTS	device:android dangerous
+com.miui.micloudsync	android.permission.WRITE_EXTERNAL_STORAGE	device:android dangerous
+com.miui.micloudsync	android.permission.WRITE_MIPOCKET	UNDEFINED
+com.miui.micloudsync	android.permission.WRITE_PROFILE	device:android normal
+com.miui.micloudsync	android.permission.WRITE_SECURE_SETTINGS	device:android signature|privileged|development|installer|role
+com.miui.micloudsync	android.permission.WRITE_SETTINGS	device:android signature|appop|pre23|preinstalled|role
+com.miui.micloudsync	android.permission.WRITE_SMS	device:android normal
+com.miui.micloudsync	com.miui.antispam.permission.CONTENTPROVIDER	UNDEFINED
+com.miui.micloudsync	com.miui.cloudserive.permission.USE_KEYCHAIN	module
+com.miui.micloudsync	com.xiaomi.permission.ACCESS_WIFI	UNDEFINED
+com.miui.micloudsync	com.xiaomi.permission.CLOUD_MANAGER	module
+com.miui.micloudsync	com.xiaomi.permission.SYNC_TAG_DATA	module
+com.miui.micloudsync	miui.personalassistant.ACCESS_PROVIDER	UNDEFINED
+com.miui.micloudsync	miui.personalassistant.permission.READ_ASSISTANT_PROVIDER	UNDEFINED
+com.miui.micloudsync	miui.personalassistant.permission.WRITE_ASSISTANT_PROVIDER	UNDEFINED
+com.miui.cloudbackup	android.miui.permission.SHELL	device:com.miui.system signature|privileged
+com.miui.cloudbackup	android.permission.ACCESS_DOWNLOAD_MANAGER	device:com.android.providers.downloads signature|privileged
+com.miui.cloudbackup	android.permission.ACCESS_MTP	device:android signature|privileged
+com.miui.cloudbackup	android.permission.ACCESS_NETWORK_STATE	device:android normal|instant
+com.miui.cloudbackup	android.permission.ACCESS_WIFI_STATE	device:android normal
+com.miui.cloudbackup	android.permission.AUTHENTICATE_ACCOUNTS	device:android normal
+com.miui.cloudbackup	android.permission.CHANGE_CONFIGURATION	device:android signature|privileged|development|role
+com.miui.cloudbackup	android.permission.CHANGE_WIFI_STATE	device:android normal
+com.miui.cloudbackup	android.permission.CONNECTIVITY_INTERNAL	device:android signature|privileged
+com.miui.cloudbackup	android.permission.DELETE_PACKAGES	device:android signature|privileged|role
+com.miui.cloudbackup	android.permission.DOWNLOAD_WITHOUT_NOTIFICATION	device:com.android.providers.downloads normal
+com.miui.cloudbackup	android.permission.FORCE_STOP_PACKAGES	device:android signature|privileged
+com.miui.cloudbackup	android.permission.FOREGROUND_SERVICE	device:android normal|instant
+com.miui.cloudbackup	android.permission.FOREGROUND_SERVICE_DATA_SYNC	device:android normal|instant
+com.miui.cloudbackup	android.permission.GET_PACKAGE_SIZE	device:android normal
+com.miui.cloudbackup	android.permission.INSTALL_PACKAGES	device:android signature|privileged
+com.miui.cloudbackup	android.permission.INTERACT_ACROSS_USERS	device:android signature|privileged|development|role
+com.miui.cloudbackup	android.permission.INTERACT_ACROSS_USERS_FULL	device:android signature|installer|role|module
+com.miui.cloudbackup	android.permission.INTERNET	device:android normal|instant
+com.miui.cloudbackup	android.permission.KILL_BACKGROUND_PROCESSES	device:android normal
+com.miui.cloudbackup	android.permission.MANAGE_ACCOUNTS	device:android normal
+com.miui.cloudbackup	android.permission.MANAGE_DEVICE_ADMINS	device:android signature|role
+com.miui.cloudbackup	android.permission.PACKAGE_USAGE_STATS	device:android signature|privileged|development|appop|retailDemo
+com.miui.cloudbackup	android.permission.POST_NOTIFICATIONS	device:android dangerous|instant
+com.miui.cloudbackup	android.permission.QUERY_ALL_PACKAGES	device:android normal
+com.miui.cloudbackup	android.permission.READ_PHONE_STATE	device:android dangerous
+com.miui.cloudbackup	android.permission.READ_PRIVILEGED_PHONE_STATE	device:android signature|privileged|role
+com.miui.cloudbackup	android.permission.RECEIVE_BOOT_COMPLETED	device:android normal
+com.miui.cloudbackup	android.permission.SCHEDULE_EXACT_ALARM	device:android signature|privileged|appop
+com.miui.cloudbackup	android.permission.SET_WALLPAPER	device:android normal
+com.miui.cloudbackup	android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND	device:android signature|privileged|verifier|oem|vendorPrivileged|role
+com.miui.cloudbackup	android.permission.STATUS_BAR	device:android signature|privileged|recents
+com.miui.cloudbackup	android.permission.UPDATE_DEVICE_STATS	device:android signature|privileged|role
+com.miui.cloudbackup	android.permission.USE_CREDENTIALS	device:android normal
+com.miui.cloudbackup	android.permission.VIBRATE	device:android normal|instant
+com.miui.cloudbackup	android.permission.WAKE_LOCK	device:android normal|instant
+com.miui.cloudbackup	android.permission.WRITE_APN_SETTINGS	device:android signature|privileged
+com.miui.cloudbackup	android.permission.WRITE_EXTERNAL_STORAGE	device:android dangerous
+com.miui.cloudbackup	android.permission.WRITE_SECURE_SETTINGS	device:android signature|privileged|development|installer|role
+com.miui.cloudbackup	android.permission.WRITE_SETTINGS	device:android signature|appop|pre23|preinstalled|role
+com.miui.cloudbackup	android.provision.permission.SEND_PROVISION_COMPLETE_BROADCAST	UNDEFINED
+com.miui.cloudbackup	com.android.launcher.permission.READ_SETTINGS	device:com.miui.home signature|privileged
+com.miui.cloudbackup	com.android.permission.GET_INSTALLED_APPS	UNDEFINED
+com.miui.cloudbackup	com.mi.android.globallauncher.permission.READ_SETTINGS	UNDEFINED
+com.miui.cloudbackup	com.miui.bugreport.permission.DUMP_CACHED_LOG	UNDEFINED
+com.miui.cloudbackup	com.miui.cloudbackup.permission.RESTORE_SESSION_RECEIVER	module
+com.miui.cloudbackup	com.miui.cloudservice.permission.MICLOUD_STATUS_SERVICE	module
+com.miui.cloudbackup	com.miui.cloudservice.permission.PROVISION_ACCESS_SYNC_STATUS	module
+com.miui.cloudbackup	com.miui.notes.permission.ACCESS_NOTE	UNDEFINED
+com.miui.cloudbackup	com.xiaomi.permission.ACCESS_SECURITY_DEVICE_CREDENTIAL	UNDEFINED
+com.miui.cloudbackup	com.xiaomi.permission.CLOUD_MANAGER	module
+com.miui.cloudbackup	com.xiaomi.permission.MICLOUD	UNDEFINED
+com.miui.cloudbackup	com.xiaomi.permission.SYNC_TAG_DATA	module
+com.miui.cloudbackup	miui.permission.USE_INTERNAL_GENERAL_API	device:com.miui.system signature|privileged

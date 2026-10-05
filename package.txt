@@ -1,0 +1,4 @@
+com.xiaomi.account
+com.miui.cloudservice
+com.miui.micloudsync
+com.miui.cloudbackup

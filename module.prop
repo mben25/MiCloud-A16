@@ -1,0 +1,7 @@
+id=MiCloudA16
+name=MiCloud A16
+version=v1.0.0-OS3.0.306.0.WNRCNXM
+versionCode=1
+author=mbenanaya
+description=Mi Account + Xiaomi Cloud + MiCloud Sync + Cloud Backup, stock and Xiaomi-signed, extracted from the garnet HyperOS CN fastboot ROM OS3.0.306.0.WNRCNXM (Android 16, SDK 36). Requires HyperCore-A16. arm64-v8a, SDK 34+.
+updateJson=https://github.com/mben25/MiCloud-A16/releases/latest/download/update.json
